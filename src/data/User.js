@@ -8,40 +8,47 @@ const INFO = {
 
   socials: {
     github: "https://github.com/aamir140896h",
-    linkedin: "https://www.linkedin.com/in/aamir-hussain-1995/",
+    linkedin: "https://www.linkedin.com/in/aamir-hussain-541a06148/",
     instagram: "https://www.instagram.com/aamir_hussain/",
-    facebook: "https://www.facebook.com/aamir.hussain.1995",
+    email: "aamir1995hussain@gmail.com",
   },
 
   homepage: {
-    title: "Front-End Developer | React.js Enthusiast | UI/UX Expert",
-    description: `Hi, I'm Aamir Hussain, a passionate front-end developer with over 2 years of experience in building dynamic and responsive web applications. Proficient in React, Redux, and modern UI libraries, I have worked on various projects to enhance user experiences and deliver high-quality, pixel-perfect solutions. I strive to stay up-to-date with the latest web technologies and industry best practices to ensure optimal performance and seamless functionality.`,
+    title:
+      "✨ Building Seamless Digital Solutions | Full Stack Developer | React & Node Expert",
+    description: `Hi, I'm Aamir Hussain, a dedicated Full Stack Developer with over 3 years of experience building dynamic and responsive web applications. Skilled in React, Redux, Node.js, Express.js, and MongoDB, I focus on creating high-quality, maintainable, and scalable solutions. 
+    I am passionate about performance optimization, cross-browser compatibility, and responsive design. My commitment to continuous learning ensures I stay updated with modern technologies to deliver innovative solutions that enhance user experiences.`,
   },
 
   about: {
     title:
-      "I’m Aamir Hussain, a dedicated front-end developer from Bengaluru, India.",
-    description: `Welcome to my portfolio! As a front-end developer, I specialize in creating interactive and visually appealing web applications. My expertise lies in React, Redux, MUI, and other modern web technologies. With a strong focus on performance optimization and responsive design, I aim to deliver high-quality code that meets and exceeds client expectations.
-      
-      I have built various applications, including Legal Eagle (a comprehensive law firm management system) and KitKart (an online grocery platform). I am passionate about improving user experiences and collaborating within agile environments. Feel free to explore my projects and connect with me for collaboration or inquiries.`,
+      "I’m Aamir Hussain, a Full Stack Developer I live in Bengaluru, India.",
+    description: `As a Full Stack Developer, I build interactive and visually appealing applications with a focus on clean code and performance. Proficient in both front-end and back-end technologies, I aim to deliver end-to-end solutions with precision and efficiency.
+
+    Tech Stack:
+     Front-End: React, Redux, HTML, CSS, JavaScript, MUI
+     Back-End: Node.js, Express.js, Java, Spring Boot,
+     Database: MongoDB, NoSQL
+     Tools & Libraries: Git, Postman, Docker, Redis
+     Deployment: AWS, Nginx
+
+    I thrive in agile environments and am passionate about solving complex problems through innovative solutions.`,
   },
 
   projects: [
     {
-      title: "KitKart - Online Grocery Platform",
+      title: "University Management System",
       description:
-        "A complete online grocery shopping platform allowing users to browse and purchase products with ease. Built using React and Redux with a smooth and responsive UI.",
-      logo: "https://i.postimg.cc/PqwycVZY/20240330-004944.jpg",
+        "A robust and comprehensive ERP solution tailored for educational institutions to efficiently manage their day-to-day operations. The system handles a wide range of university functions, including student registration, admission processes, attendance tracking, billing and fee management, examination management, and faculty administration. It also features dedicated portals for students and faculty to access relevant information, submit assignments, view attendance records, and track academic progress. The report module generates detailed insights for administrative decision-making. Built with React for an interactive UI, Node.js and Express.js for backend services, and MongoDB for secure data management.",
       linkText: "View Project",
-      link: "https://kitkart.com/",
+      link: "https://university-erp.com/",
     },
     {
-      title: "Legal Eagle - Law Firm Management System",
+      title: "KitKart - Online Grocery Platform",
       description:
-        "A comprehensive platform for managing law firm operations, including case tracking, document management, and client communication. Integrated with Microsoft OneDrive for secure storage.",
-      logo: "https://i.postimg.cc/G24kZkwt/rdtmt-logo.png",
+        "An innovative online grocery platform that simplifies the shopping experience with real-time inventory updates and secure transactions. Users can browse a wide range of grocery items, add products to their cart, and proceed to checkout with multiple payment options. The platform also supports order tracking and personalized recommendations. Designed with a responsive and intuitive UI using React and Redux, it ensures a smooth and engaging shopping experience. The backend is powered by Node.js and MongoDB to efficiently handle user data, inventory management, and order processing.",
       linkText: "View Project",
-      link: "https://legaleagle.com/",
+      link: "https://kitkart.com/",
     },
   ],
 };

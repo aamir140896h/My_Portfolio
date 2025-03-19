@@ -36,11 +36,11 @@ const NavBar = () => {
           </li>
           <li>
             <Link
-              to="/projects"
+              to="/project"
               className={`navbar-link ${
-                activeLink === "/projects" ? "active" : ""
+                activeLink === "/project" ? "active" : ""
               }`}
-              onClick={() => setActiveLink("/projects")}
+              onClick={() => setActiveLink("/project")}
             >
               Projects
             </Link>

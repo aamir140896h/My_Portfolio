@@ -1,0 +1,59 @@
+.contact-card {
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .contact-card-title {
+    margin-bottom: 10px;
+    font-size: 1.8rem;
+    color: #333;
+  }
+  
+  .contact-card-subtitle {
+    font-size: 1rem;
+    margin: 15px 0;
+    color: #555;
+  }
+  
+  .contact-card-subtitle a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .contact-card-subtitle a:hover {
+    text-decoration: underline;
+  }
+  
+  .contact-card-socials {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  }
+  
+  .contact-social-link {
+    color: #333;
+    text-decoration: none;
+    font-size: 1.2rem;
+    transition: color 0.3s ease;
+  }
+  
+  .contact-social-link:hover {
+    color: #007bff;
+  }
+  
+  .social-icon {
+    margin-right: 8px;
+  }
+  
+  .contact-footer {
+    margin-top: 20px;
+    font-size: 0.9rem;
+    color: #777;
+  }
+  
